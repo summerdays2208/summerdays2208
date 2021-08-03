@@ -25,4 +25,4 @@
 
 ### Frontend
 - HTML, CSS, JS
-- Jquery
+- jQuery
