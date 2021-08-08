@@ -5,7 +5,6 @@
 ### Introduction
 - 개발자가 되기위해 공부하고 있는 강정희입니다.
 - 새로움에 도전하는 것을 즐깁니다.
-- 꾸준함이 가장 중요하다고 생각합니다.
 
 ### Contact & Channel
 - Email | leap22@hanmail.net
