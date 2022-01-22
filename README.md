@@ -8,7 +8,6 @@
 
 ### Contact & Channel
 - Email | leap22@hanmail.net
-- Portfolio | http://blanc08.dothome.co.kr/portfolio/
 - Github | https://github.com/summerdays2208
 
 ## ⛏Skills
