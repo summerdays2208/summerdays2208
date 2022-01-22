@@ -24,3 +24,7 @@
 ### Frontend
 - HTML, CSS, JS
 - jQuery
+
+### Tools
+- Docker
+- Git
