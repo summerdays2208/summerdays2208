@@ -9,6 +9,7 @@
 ### Contact & Channel
 - Email | leap22@hanmail.net
 - Github | https://github.com/summerdays2208
+- Portfolio | http://leap22.dothome.co.kr/portfolio/
 
 ## ⛏Skills
 
